@@ -19,4 +19,5 @@ h1 {
 }
 ul{
   list-style: circle;
+  margin-left: 2em;
 }
