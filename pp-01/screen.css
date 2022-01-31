@@ -7,3 +7,16 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+h1 {
+  font-family: 'Oswald', sans-sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+}
+.bodyText {
+  padding-top: 0.5em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1 em;
+}
+ul{
+  list-style: circle;
+}
