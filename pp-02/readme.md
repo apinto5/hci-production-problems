@@ -15,8 +15,8 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=1000u0kV6MG03zuhjQtVffC++5r
+Your Rationale: Gaming consoles have a pretty consistent aesthetic; a black or white, with a neon colored aesthetic. For the accent color, I used red; green looked better, but felt like it was encroaching too closely on the Xbox's design. As this is for a website, I included lighter colors -- likely a reddish white -- to avoid having only strictly harsh reds and blacks.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
