@@ -20,8 +20,8 @@ Your Rationale: Gaming consoles have a pretty consistent aesthetic; a black or w
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=52B0I0kzGsW00Na0zse++9l++00
+Your Rationale: The feeling of Spring, obviously, is evoked by greens; normally, this would lead me towards vibrant, bright greens. However, the Chicago Botanical Garden tends towards 'distinguished' marketing; i.e., sleek blacks and darker versions of colors. To confirm this, I went to their website; the greens they're using right now are all on the darker-end of green. I took this into account when making my palette. I included a yellow and blue, two other colors associated with springtime, via flowers and water, and light grays that are great for backgrounds for text. 
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
