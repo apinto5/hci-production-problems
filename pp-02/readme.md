@@ -30,5 +30,5 @@ Your Rationale: For an educational app on a phone, simplistic, neutral backgroun
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=b453i4K0kwwtg1JjRaAkXZXr9++l4
+Your Rationale: This was one was hard; the prompt doesn't scream out for a certain color scheme like the others. To get an idea of what to do, I looked at the course listings from various vendors and certification programs. Almost all used a blue on a white background, with the page broken up into sections using a grey background. I tried to mimick this a little bit, adding a soft purple for accentuation.
