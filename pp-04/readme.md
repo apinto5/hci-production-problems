@@ -10,7 +10,7 @@ students, including yourself. Organize into teams however you’d like, includin
 Basecamp thread, and then choose as a team what coordination software you will use to communicate
 (e.g., your own Basecamp project [NOT the class-wide one], Slack, Discord, or something else).
 
-Write the name of the communication service your team has decided to use:
+Write the name of the communication service your team has decided to use: Discord
 
 2. **Only one member of your team should complete this step.** In your project coordination software
 of choice, discuss and choose one member who will create the free GitHub Organization account for
@@ -25,22 +25,27 @@ you to take a survey, which you can take or just skip. Finally, create a new rep
 organization. Initializing it on GitHub with a `README.md` file is fine, unless you’ve already begun
 a repository on a team member’s computer. **That will be your shared repository for Project Two.**
 
-3. Copy and paste the URL for your team’s GitHub organization here:
+3. Copy and paste the URL for your team’s GitHub organization here: https://github.com/hci-unstoppable
 
-4. Copy and paste the URL showing your team’s GitHub organization members here:
+4. Copy and paste the URL showing your team’s GitHub organization members here: https://github.com/orgs/hci-unstoppable/people
 
-5. Copy and paste the URL for your team’s shared repository for Project Two here:
+5. Copy and paste the URL for your team’s shared repository for Project Two here: https://github.com/hci-unstoppable/hci-shopping-site
 
 6. Each member of the team should then fork the team repository from within the team organization
 on GitHub (so, too, should the team member who created the GitHub organization for your project).
 
-Copy and paste the URL for your personal fork of the repository here:
+Copy and paste the URL for your personal fork of the repository here: https://github.com/apinto5/hci-shopping-site
 
 7. Each member of the team should clone their forked copy of the repository to their local
 computer. Once you have cloned the forked copy, you should add the *upstream*, team repository as a
 second remote. Run `git remote add upstream` followed by the URL for your team’s repository.
 
 Write or copy & paste the output of `git remote -v` from your copy of the forked repository here:
+alex@desktop:~/Projects/hci-shopping-site$ git remote -v
+origin	git@github.com:apinto5/hci-shopping-site.git (fetch)
+origin	git@github.com:apinto5/hci-shopping-site.git (push)
+upstream	github.com/hci-unstoppable/hci-shopping-site (fetch)
+upstream	github.com/hci-unstoppable/hci-shopping-site (push)
 
 8. Next, on a feature branch called `self-intro`, all team members should add their names to the
 `README.md` file, along with brief sentence or two of what the member believes are his/her primary
@@ -49,7 +54,7 @@ pull upstream main`) to get any other team members’ names and strengths. Add a
 work, and push to your own repository (`git push origin self-intro`).
 
 Copy and paste the URL of your pull request here:
-
+github.com/hci-unstoppable/hci-shopping-site/pull/2
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
 pull request before it is merged, and then pull from the team repository to have a complete,
