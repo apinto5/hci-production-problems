@@ -16,18 +16,18 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. drpete.co/blog/25-point-website-usability-checklist
+2. www.plerdy.com/usability-testing-website-checklist
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. A page's main text is concise and explanatory
+2. Navigation labels are clear & concise
+3. Adequate text-to-background contrast
+4. Product image gallery; i.e., products have images and they're all presented together
+5. Order confirmation to communicate to user that order was succesful
+6. No accumulation of elements; i.e., leave adequate spacing between elements
+7. Color standardization; something in an inconsistent color may be misconstrued as important
+8. Full product information; user's need to be well-informed on what they're getting, or they won't order
+9. Company logo is linked to homepage; this is consistent on webpages and expected
+10. Number of buttons is reasonable; this is something we could work on
